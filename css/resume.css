@@ -46,13 +46,6 @@ p.lead {
   font-size: 1.15rem;
   font-weight: 400;
 }
-.portfolio-desc {
-    height: 6rem;
-    text-align: justify;
-    padding-left: 0.5rem;
-    vertical-align: middle;
-}
-
 
 .subheading {
   font-weight: 500;
@@ -157,7 +150,7 @@ p.lead {
 section.resume-section {
   padding-top: 5rem !important;
   padding-bottom: 5rem !important;
-  max-width: 75rem;
+  max-width: 99rem;
 }
 
 section.resume-section .resume-item .resume-date .resume-desc {
@@ -168,7 +161,7 @@ section.resume-section .resume-item .resume-date .resume-desc {
   section.resume-section {
     min-height: 100vh;
   }
-  section.resume-section .resume-item .resume-date .resume-desc .portfolio-desc {
+  section.resume-section .resume-item .resume-date .resume-desc {
     min-width: 18rem;
   }
 }
@@ -186,6 +179,10 @@ section.resume-section .resume-item .resume-date .resume-desc {
 
 .text-primary {
   color: #23456C !important;
+}
+.portfolio {
+  color: #23456C;
+  text-align: right;
 }
 
 a {
