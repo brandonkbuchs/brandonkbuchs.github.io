@@ -49,14 +49,10 @@ p.lead {
 .portfolio-desc {
     height: 6rem;
     text-align: justify;
-    padding-top: 7rem;
     padding-left: 0.5rem;
-}
-.portfolio-desc p {
-    line-height: 1.5;
     vertical-align: middle;
-    
 }
+
 
 .subheading {
   font-weight: 500;
