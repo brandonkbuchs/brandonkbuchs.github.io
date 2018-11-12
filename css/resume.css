@@ -172,7 +172,7 @@ section.resume-section .resume-item .resume-date .resume-desc {
   section.resume-section {
     min-height: 100vh;
   }
-  section.resume-section .resume-item .resume-date .resume-desc {
+  section.resume-section .resume-item .resume-date .resume-desc .portfolio-desc {
     min-width: 18rem;
   }
 }
