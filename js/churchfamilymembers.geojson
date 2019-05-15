@@ -1,4 +1,4 @@
-var churchfamilymembers = {
+{
    "type": "FeatureCollection",
    "features": [
   {
@@ -2491,4 +2491,4 @@ var churchfamilymembers = {
     }
   }
 ]
-};
+}
