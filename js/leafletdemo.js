@@ -19,5 +19,5 @@ function addDataToMap(data, map) {
   datalayer.addTo(map);
 }
 
-$.getJSON("churchfamilymembers.geojson", function(data) { addDataToMap(data, map); });
+$.getJSON("churchfamilymembers.json", function(data) { addDataToMap(data, map); });
 
